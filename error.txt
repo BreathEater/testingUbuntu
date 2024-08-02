@@ -1,0 +1,2 @@
+0	IMG_9328.jpg
+du: cannot access 'IMG_1234.jpg': No such file or directory

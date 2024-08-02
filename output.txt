@@ -1,0 +1,11 @@
+Let's try to add a lot of lines of output to this file! :D 
+access.log
+bash.txt
+output.txt
+pg73464.txt
+++++++++
+0	IMG_9328.jpg
+0	IMG_9328.jpg
+du: cannot access 'IMG_1234.jpg': No such file or directory
+0	IMG_9328.jpg
+0	IMG_9328.jpg
